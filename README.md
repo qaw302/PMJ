@@ -3,7 +3,7 @@
 ## Self introduction
 
 ### **1) Name**
-저의 이름은 박미정입니다.  영어표기는 Park Mi Jeong
+저의 이름은 박미정입니다.  영어표기는 Park Mi Jeong 입니다.
 
 ### **2) Age**
 2001년 03월 02일 생으로 올해로 22살입니다.
